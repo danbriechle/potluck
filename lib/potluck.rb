@@ -18,4 +18,9 @@ class Potluck
     found
   end
 
+  def menu
+  
+
+  end
+
 end
